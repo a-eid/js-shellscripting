@@ -1,0 +1,12 @@
+{
+  "name": "jsshell",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ahmed Eid",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "prettify-xml": "^1.0.1",
+    "request": "^2.81.0"
+  }
+}
